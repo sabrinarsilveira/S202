@@ -1,0 +1,130 @@
+{
+    "Aulas": {
+        "aula1": {
+            "professor": "Jonas",
+            "assunto": "Banco de Dados 2",
+            "alunos": [
+                {
+                    "nome": "João",
+                    "idade": 20,
+                    "curso": {
+                        "nome": "Engenharia de Software",
+                        "coordenador": "Renzo"
+                    },
+                    "periodo": 5
+                },
+                {
+                    "nome": "Maria",
+                    "idade": 19,
+                    "curso": {
+                        "nome": "Engenharia de Computação",
+                        "coordenador": "Renzo"
+                    },
+                    "periodo": 4
+                },
+                {
+                    "nome": "Pedro",
+                    "idade": 20,
+                    "curso": {
+                        "nome": "Engenharia de Controle e Automação",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 6
+                },
+                {
+                    "nome": "Ana",
+                    "idade": 19,
+                    "curso": {
+                        "nome": "Engenharia Elétrica",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 6
+                }
+            ]
+        },
+        "aula2": {
+            "professor": "Marcelo",
+            "assunto": "Paradigmas",
+            "alunos": [
+                {
+                    "nome": "Sabrina",
+                    "idade": 20,
+                    "curso": {
+                        "nome": "Engenharia de Software",
+                        "coordenador": "Renzo"
+                    },
+                    "periodo": 5
+                },
+                {
+                    "nome": "Renan",
+                    "idade": 19,
+                    "curso": {
+                        "nome": "Engenharia de Controle e Automação",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 5
+                },
+                {
+                    "nome": "Maria",
+                    "idade": 20,
+                    "curso": {
+                        "nome": "Engenharia de Controle e Automação",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 6
+                },
+                {
+                    "nome": "Ana",
+                    "idade": 19,
+                    "curso": {
+                        "nome": "Engenharia Elétrica",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 6
+                }
+            ]
+        },
+        "aula3": {
+            "professor": "Jonas",
+            "assunto": "Algoritimos 3",
+            "alunos": [
+                {
+                    "nome": "Pedro",
+                    "idade": 20,
+                    "curso": {
+                        "nome": "Engenharia de Software",
+                        "coordenador": "Renzo"
+                    },
+                    "periodo": 5
+                },
+                {
+                    "nome": "Maria",
+                    "idade": 19,
+                    "curso": {
+                        "nome": "Engenharia de Controle e Automação",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 5
+                },
+                {
+                    "nome": "Ana",
+                    "idade": 20,
+                    "curso": {
+                        "nome": "Engenharia de Controle e Automação",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 6
+                },
+                {
+                    "nome": "João",
+                    "idade": 19,
+                    "curso": {
+                        "nome": "Engenharia Elétrica",
+                        "coordenador": "Baratella"
+                    },
+                    "periodo": 6
+                }
+            ]
+        }
+    }
+}

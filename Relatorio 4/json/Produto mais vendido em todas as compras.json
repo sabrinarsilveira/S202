@@ -1,0 +1,254 @@
+[
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b4"
+            },
+            "produto_descricao": "Cerveja"
+        },
+        "total_vendido": 12
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Banana"
+        },
+        "total_vendido": 4
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b1"
+            },
+            "produto_descricao": "Laranja"
+        },
+        "total_vendido": 4
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Bolacha"
+        },
+        "total_vendido": 3
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Ma\u00e7\u00e3"
+        },
+        "total_vendido": 3
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b2"
+            },
+            "produto_descricao": "Bolacha"
+        },
+        "total_vendido": 3
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b0"
+            },
+            "produto_descricao": "Sabonete"
+        },
+        "total_vendido": 3
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b2"
+            },
+            "produto_descricao": "Mortadela"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Tomate"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Macarr\u00e3o"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b4"
+            },
+            "produto_descricao": "Mortadela"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Macarr\u00e3o"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b2"
+            },
+            "produto_descricao": "Refrigerante"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b1"
+            },
+            "produto_descricao": "Carne"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Mortadela"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Mortadela"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Refrigerante"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b0"
+            },
+            "produto_descricao": "Detergente"
+        },
+        "total_vendido": 2
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b4"
+            },
+            "produto_descricao": "Mussarela"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Feij\u00e3o"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Mussarela"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Mussarela"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b1"
+            },
+            "produto_descricao": "Leite"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b5"
+            },
+            "produto_descricao": "Feij\u00e3o"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b2"
+            },
+            "produto_descricao": "Mussarela"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b3"
+            },
+            "produto_descricao": "Arroz"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b4"
+            },
+            "produto_descricao": "Amendoim"
+        },
+        "total_vendido": 1
+    },
+    {
+        "_id": {
+            "compra_id": {
+                "$oid": "65f33926b807460f94e383b0"
+            },
+            "produto_descricao": "Sab\u00e3o em p\u00f3"
+        },
+        "total_vendido": 1
+    }
+]

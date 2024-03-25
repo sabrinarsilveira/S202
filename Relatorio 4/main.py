@@ -12,3 +12,4 @@ result = db.collection.aggregate([
 ])
 
 writeAJson(result, "Média de gasto total")
+
